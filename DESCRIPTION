@@ -1,0 +1,25 @@
+Package: envRAP
+Type: Package
+Title: Installs dependencies and helper funs for RAP analysis
+Version: 0.1.0
+Author: René Michel
+Maintainer: René Michel <r.michel@wwu.de>
+Description: Installs dependencies and helper funs for RAP analysis
+License: GNU 3.0
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.0.2
+Imports: 
+    ggplot2 (>= 3.3.0),
+    reshape2 (>= 1.4.3),
+    pracma (>= 2.2.9),
+    Rmisc (>= 1.5),
+    circular (>= 0.4.93),
+    scales (>= 1.0.0),
+    R.matlab (>= 3.6.2),
+    dplyr (>= 0.8.3),
+    stats (>= 3.6.1),
+    lattice (>= 0.20.38),
+    car (>= 3.0.6),
+    rmTools (>= 0.1.0)
+Remotes: remichel/rmTools
