@@ -21,7 +21,7 @@ Imports:
     stats (>= 3.6.1),
     lattice (>= 0.20.38),
     car (>= 3.0.6),
-    rmTools (>= 0.1.0),
+    rmTools (>= 0.1.3),
     knitr (>= 1.23),
     kableExtra (>= 1.1.0)
 Remotes: remichel/rmTools
