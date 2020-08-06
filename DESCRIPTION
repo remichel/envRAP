@@ -1,7 +1,7 @@
 Package: envRAP
 Type: Package
 Title: Installs dependencies and helper funs for RAP analysis
-Version: 0.1.2
+Version: 0.1.3
 Author: René Michel
 Maintainer: René Michel <r.michel@wwu.de>
 Description: Installs dependencies and helper funs for RAP analysis
@@ -21,7 +21,7 @@ Imports:
     stats (>= 3.6.1),
     lattice (>= 0.20.38),
     car (>= 3.0.6),
-    rmTools (>= 0.1.3),
+    rmTools (>= 0.1.4),
     knitr (>= 1.23),
     kableExtra (>= 1.1.0)
 Remotes: remichel/rmTools
